@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS_Project1/mlruns/0/efde11d1cc1e47ff85a3eb08b4dfd760/artifacts
+end_time: 1718429529485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efde11d1cc1e47ff85a3eb08b4dfd760
+run_name: gregarious-zebra-148
+run_uuid: efde11d1cc1e47ff85a3eb08b4dfd760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718429519446
+status: 3
+tags: []
+user_id: PC
